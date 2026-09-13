@@ -1,0 +1,2 @@
+# Kubernetes
+Kubernetes (K8s) is an open-source platform designed to automate the deployment, scaling, and management of containerized applications. 
